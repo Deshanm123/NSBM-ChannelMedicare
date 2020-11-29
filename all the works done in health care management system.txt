@@ -1,0 +1,29 @@
+NSBM Channel Medicare
+medicare-> consist of health care staff -> Doctors and Nurses.
+           consist of academic staff -> Student and lecturers.
+
+Student and lecturers.
+->can place appoinment to channeling(create appoinment).
+->cant edit or delete the placed appoinment
+->if they want to delete or edit the appoinment, they should call the nurse and ask to delete or edit the appoinment
+->first login from username and password
+->if not registered --->LECTURER
+                       ->enter fullname, username, email, employee id, contacct number, password and confirm password for registration
+                    --->STUDENT
+                       ->enter fullname, username, email, student id, year, contact number, password and confirm password for                          registration
+
+Doctors and Nurses.
+DOCTOR
+->doctor can view appoinments(retrieve data)
+->update aappoinments - unchecked to checked when finished an appoinment 
+
+NURSE
+->nurse - view appoinmnets, create appoinments, delete appoinments
+
+
+->no one cant edit the appoinment because it is fixed on the time frame(so they cant afford to change the appoinment)
+->if someone wants to update first thay have to delete their appoinment and create another appoinment through the nurse
+-> al so if someone wants to cancel the appoinment(delete), they should the call the nurse and ask to delete the appoinment
+
+
+            

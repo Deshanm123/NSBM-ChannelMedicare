@@ -3,8 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/USER/Documents/NetBeansProjects/HealthCareManagementSystem/src/view_NSBMMedicareClinic/HealthCareManagementSystem.java</file>
-            <file>file:/C:/Users/USER/Documents/NetBeansProjects/HealthCareManagementSystem/src/view_NSBMMedicareClinic/DashBoard.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/HealthCareManagementSystem/src/healthcaremanagementsystem/DashBoard.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/HealthCareManagementSystem/src/DatabaseOperations/HealthCareOperation.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/HealthCareManagementSystem/src/DatabaseOperations/HealthCareNurseOperation.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/HealthCareManagementSystem/src/DatabaseOperations/HealthCareDoctorOperation.java</file>
         </group>
     </open-files>
 </project-private>
